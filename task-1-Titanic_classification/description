@@ -1,0 +1,4 @@
+Task-1: Titanic Classification:
+
+For this project, I've designed a robust classification model to predict the survival status of passengers on the Titanic using Logistic Regression, Decision Tree, and Random Forest classifiers.
+By meticulously analyzing the dataset and evaluating model performance, I've gained valuable insights into the effectiveness of different algorithms for this specific classification task.
